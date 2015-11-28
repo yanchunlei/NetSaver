@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="toolbar">#ff171c29</color>
+    <color name="stateBar">#ff101321</color>
+    <color name="main_back">#1F232F</color>
+    <color name="text_color">#fffffd25</color>
+    <color name="text_color_2">#ffebe925</color>
+    <color name="text_color_3">#336681</color>
+    <color name="text_color_4">#1BC517</color>
+</resources>

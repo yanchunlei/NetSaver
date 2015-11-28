@@ -1,0 +1,13 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools" tools:context=".MainActivity">
+
+    <item android:id="@+id/main_menu_reset" android:title="@string/reset_data" app:showAsAction="never"></item>
+
+    <item android:id="@+id/main_menu_notification" android:title="@string/disable_notification" app:showAsAction="never"></item>
+
+    <item android:id="@+id/main_menu_language" android:title="@string/language" app:showAsAction="never"></item>
+
+    <item android:id="@+id/main_menu_about" android:title="@string/about"
+        android:orderInCategory="100" app:showAsAction="never" />
+</menu>

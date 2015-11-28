@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:orientation="vertical"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:background="@color/text_color_3">
+
+
+    <CheckBox
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:gravity="center_horizontal|center_vertical"
+        android:layout_marginRight="10dp"
+        android:layout_marginLeft="10dp"
+        android:layout_marginTop="10dp"
+        android:theme="@style/Base.V7.Theme.AppCompat.Light.Dialog"
+        android:text="@string/mobile_data"
+        android:id="@+id/edit_mobile_data"
+        android:layout_gravity="center_horizontal" />
+
+    <CheckBox
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:gravity="center_horizontal|center_vertical"
+        android:layout_marginRight="10dp"
+        android:layout_marginLeft="10dp"
+        android:layout_marginTop="10dp"
+        android:theme="@style/Base.V7.Theme.AppCompat.Light.Dialog"
+        android:text="wifi"
+        android:id="@+id/edit_wifi"
+        android:layout_gravity="center_horizontal" />
+
+    <Spinner
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="10dp"
+        android:layout_marginRight="10dp"
+        android:layout_marginLeft="10dp"
+        android:theme="@style/Base.V7.Theme.AppCompat.Light.Dialog"
+        android:id="@+id/edit_interval"
+        android:layout_gravity="center_horizontal" />
+
+    <Spinner
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="10dp"
+        android:layout_marginRight="10dp"
+        android:layout_marginLeft="10dp"
+        android:theme="@style/Base.V7.Theme.AppCompat.Light.Dialog"
+        android:id="@+id/edit_duration"
+        android:layout_gravity="center_horizontal" />
+
+    <Button
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:background="@color/text_color_3"
+        android:text="save"
+        android:theme="@style/Base.V7.Theme.AppCompat.Light.Dialog"
+        android:id="@+id/edit_save"
+        android:layout_gravity="center_horizontal" />
+</LinearLayout>

@@ -1,0 +1,59 @@
+<resources>
+    <string name="app_name">The Net Saver</string>
+
+    <string name="hello_world" translatable="false">Hello world!</string>
+    <string name="action_settings" translatable="false">Settings</string>
+    <string name="total_data_usage">total mobile data </string>
+    <string name="custom">custom</string>
+    <string name="home">home</string>
+    <string name="work">work</string>
+    <string name="sleep">sleep</string>
+    <string name="outdoor">outdoor</string>
+    <string name="total_wifi">total wifi</string>
+    <string name="reset_data">reset data usage</string>
+    <string name="about">about</string>
+    <string name="airplane_mode" translatable="false">airplane mode</string>
+    <string name="mobile_data">mobile data</string>
+    <string name="wifi">wifi</string>
+    <string name="save">save</string>
+    <string name="every_15">every 15 minutes</string>
+    <string name="every_30">every 30 minutes</string>
+    <string name="every_1">every 1 hour</string>
+    <string name="every_3">every 3 hours</string>
+    <string name="every_6">every 6 hours</string>
+    <string name="every_12">every 12 hours</string>
+    <string name="every_24">every 24 hours</string>
+    <string name="for_30">for 30 seconds</string>
+    <string name="for_1">for 1 minute</string>
+    <string name="for_2">for 2 minutes</string>
+    <string name="for_3">for 3 minutes</string>
+    <string name="for_4">for 4 miuntes</string>
+    <string name="every_5">every 5 minutes</string>
+    <string name="custom_activated">custom mode activated</string>
+    <string name="home_activated">home mode activated</string>
+    <string name="outdoor_activated">outdoor mode activated</string>
+    <string name="work_activated">work mode activated</string>
+    <string name="sleep_activated">sleep mode activated</string>
+    <string name="off_now">the net saver is off now</string>
+    <string name="version" translatable="false">v 1.0</string>
+    <string name="developer" translatable="false">developer : hamid mohammadi</string>
+    <string name="idea" translatable="false">idea by : meisam alipoor</string>
+    <string name="title" translatable="false">electronic engineers at k.n.t.u.</string>
+    <string name="contact" translatable="false">admin@sandstormweb.com</string>
+    <string name="date" translatable="false">2015</string>
+    <string name="sleep_mode">sleep mode</string>
+    <string name="custom_mode">custom mode</string>
+    <string name="home_mode">home mode</string>
+    <string name="outdoor_mode">outdoor mode</string>
+    <string name="work_mode">work mode</string>
+    <string name="notice">notice</string>
+    <string name="are_you_usage">are really want to reset all data usage?</string>
+    <string name="ok">ok</string>
+    <string name="cancel">cancel</string>
+    <string name="disable_notification">disable notification</string>
+    <string name="enable_notification">enable notification</string>
+    <string name="language">language</string>
+    <string name="edit">edit</string>
+    <string name="mobile__">mobile :</string>
+    <string name="wifi__">wifi :</string>
+</resources>
